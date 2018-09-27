@@ -26,7 +26,7 @@ app.use(methodOverride("_method"));
 app.use(flash());
 app.locals.moment = require('moment');
 
-mongoose.connect("mongodb://localhost/yelpCamp", { useNewUrlParser: true });
+mongoose.connect("mongodb://danish:parrot1@ds115753.mlab.com:15753/yelpcamp_dm", { useNewUrlParser: true });
 
 // seed DB
 //seedDB();
