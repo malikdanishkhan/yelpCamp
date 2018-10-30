@@ -1,4 +1,4 @@
-# yelpCamp
+# YelpCamp
 YelpCamp is a Node.js web application that follows the functionalities of yelp for camping locations.
 
 ## Live Demo
@@ -40,8 +40,8 @@ yarn install
 
 ### Front-end
 * [ejs](http://ejs.co/)
-* [Google Maps APIs](https://developers.google.com/maps/)
 * [Bootstrap](https://getbootstrap.com/docs/3.3/)
+* [Google Maps APIs](https://developers.google.com/maps/)
 
 ### Back-end
 * [express](https://expressjs.com/)
